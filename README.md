@@ -3,7 +3,7 @@
 <br>
 
 <!-- Presentación -->
-<h4> ´Hello World´👋, I'm Maria Crespo, and here you find anything about me:</h4>
+<h4> <em>Hello World</em>👋, I'm Maria Crespo, and here you find anything about me:</h4>
 <br>
 <p align="center"><img src="https://github.com/mfcrespo/Github_profile/blob/master/images/foto_perfil.png" width=250 height=250 /></p>
 
@@ -14,22 +14,30 @@
 <!-- Estudios -->
 <h3 align="center">Academic Background</h3>
 
-<h4 align="center">Software Developer <a href="https://www.holbertonschool.com" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_holberton.png" alt="Holberton School" height="50" width="50" /></a>
+<h4 align="center">Software Developer <a href="https://www.holbertonschool.com" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_holberton.png" alt="Holberton School" height="80" width="80" /></a>
 
-<h4 align="center">Industrial Engineer<a href="https://www.javerianacali.edu.co" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_javeriana.png" alt="Universidad Javeriana" height="50" width="50" /></a></h4>
+<h4 align="center">Industrial Engineer<a href="https://www.javerianacali.edu.co" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_javeriana.png" alt="Universidad Javeriana" height="80" width="80" /></a></h4>
 <br>
 
 <!-- Skills -->
 <h3 align="center"> Low and High Level Skills </h3>
 <p align="center">
-<img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_c.png" alt="C_Lenguage" width="50" height="50"/>
-<img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_python.png" alt="Python" width="50" height="50"/>
-<img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sql.png" alt="sql" width="86" height="50"/>
+<img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_c.png" alt="C_Lenguage" width="80" height="80"/>
+<img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_python.png" alt="Python" width="80" height="80"/>
+<img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sql.png" alt="sql" width="60" height="80"/>
 </p>
 <br>
 
 <h3 align="center"> Frontend Skills </h3>
-<p align="center"><img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_html.png" alt="html5" width="50" height="50"/> <img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_css.png" alt="css3" width="50" height="50"/>
+<p align="center"><img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_html.png" alt="html5" width="80" height="80"/> <img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_css.png" alt="css3" width="80" height="80"/>
+</p>
+<br>
+
+<!-- More information about skills -->
+<h3 align="center"> More information about skills </h3>
+<h5 align="center"><em>You can see more information about my programming skills here: </em></h5>
+<p align="center">
+<a href="https://sourcerer.io/mfcrespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="150" width="150" /></a>
 </p>
 <br>
 
@@ -41,11 +49,10 @@
 <br>
 
 <!-- Social Media -->
-<p align="right">
-<h6 align="center"><em><br>Follow me: </em></h6>
-<a href="https://twitter.com/mafe_crespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_twitter.png" alt="mafe_crespo" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/mariafernandacrespo/" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_linkedin.png" alt="MariaFernandaCrespo" height="20" width="20" /></a>
-<a href="https://medium.com/@mafe_crespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_medium.png" alt="@mafe_crespo" height="20" width="20" /></a>
+<h6 align="right"><em><br>Follow me: </em></h6>
+<p align="right"><a href="https://twitter.com/mafe_crespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_twitter.png" alt="mafe_crespo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mariafernandacrespo/" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_linkedin.png" alt="MariaFernandaCrespo" height="40" width="40" /></a>
+<a href="https://medium.com/@mafe_crespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_medium.png" alt="@mafe_crespo" height="40" width="40" /></a>
 </p>
 
 
