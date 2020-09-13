@@ -14,9 +14,9 @@
 <!-- Estudios -->
 <h3 align="center">Academic Background</h3>
 
-<h4 align="center">Software Developer <a href="https://www.holbertonschool.com" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_holberton.png" alt="Holberton School" height="80" width="80" /></a>
-
-<h4 align="center">Industrial Engineer<a href="https://www.javerianacali.edu.co" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_javeriana.png" alt="Universidad Javeriana" height="80" width="80" /></a></h4>
+<p>
+<h4 align="center">Software Developer <a href="https://www.holbertonschool.com" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_holberton.png" alt="Holberton School" height="80" width="80" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industrial Engineer<a href="https://www.javerianacali.edu.co" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_javeriana.png" alt="Universidad Javeriana" height="80" width="80" /></a></h4>
+</p>
 <br>
 
 <!-- Skills -->
