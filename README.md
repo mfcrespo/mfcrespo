@@ -36,7 +36,7 @@
 
 <!-- More information about Github -->
 <h3 align="center"> My Github stats </h3>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mfcrespo&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" alt="My github stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfcrespo&layout=compact&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" alt="My github stats" /></a>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mfcrespo&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff&include_all_commits=2019" alt="My github stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfcrespo&layout=compact&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" alt="My github stats" /></a>
 </p>
 <br>
 
