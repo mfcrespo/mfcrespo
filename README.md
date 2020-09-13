@@ -20,16 +20,9 @@
 <br>
 
 <!-- Skills -->
-<h3 align="center"> Low and High Level Skills </h3>
-<p align="center">
-<img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_c.png" alt="C_Lenguage" width="80" height="80"/>
-<img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_python.png" alt="Python" width="80" height="80"/>
-<img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sql.png" alt="sql" width="60" height="80"/>
-</p>
-<br>
-
-<h3 align="center"> Frontend Skills </h3>
-<p align="center"><img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_html.png" alt="html5" width="80" height="80"/> <img src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_css.png" alt="css3" width="80" height="80"/>
+<h3 align="center">Programming Skills</h3>
+<p>
+<h4 align="center">Low and High Level Skills <img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_c.png" alt="C_Lenguage" width="50" height="50"/><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_python.png" alt="Python" width="50" height="50"/><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sql.png" alt="sql" width="35" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend Skills <img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_html.png" alt="html5" width="50" height="50"/> <img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_css.png" alt="css3" width="50" height="50"/></h4>
 </p>
 <br>
 
@@ -37,7 +30,13 @@
 <h3 align="center"> More information about skills </h3>
 <h5 align="center"><em>You can see more information about my programming skills here: </em></h5>
 <p align="center">
-<a href="https://sourcerer.io/mfcrespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="150" width="150" /></a>
+<a href="https://sourcerer.io/mfcrespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
+</p>
+<br>
+
+<!-- More information about Github -->
+<h3 align="center"> My Github stats </h3>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mfcrespo&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" alt="My github stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfcrespo&layout=compact&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" alt="My github stats" /></a>
 </p>
 <br>
 
