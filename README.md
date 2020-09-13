@@ -22,7 +22,7 @@
 <!-- Skills -->
 <h3 align="center">Programming Skills</h3>
 <p>
-<h4 align="center">Low and High Level Skills <img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_c.png" alt="C_Lenguage" width="50" height="50"/><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_python.png" alt="Python" width="50" height="50"/><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sql.png" alt="sql" width="35" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend Skills <img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_html.png" alt="html5" width="50" height="50"/> <img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_css.png" alt="css3" width="50" height="50"/></h4>
+<h4 align="center">Low and High Level Skills <img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_c.png" alt="C_Lenguage" width="50" height="50"/>&nbsp;<img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_python.png" alt="Python" width="50" height="50"/>&nbsp;<img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sql.png" alt="sql" width="35" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend Skills <img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_html.png" alt="html5" width="50" height="50"/>&nbsp;<img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_css.png" alt="css3" width="50" height="50"/></h4>
 </p>
 <br>
 
