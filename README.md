@@ -15,7 +15,7 @@
 <h3 align="center">Academic Background</h3>
 
 <p>
-<h4 align="center">Software Developer <a href="https://www.holbertonschool.com" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_holberton.png" alt="Holberton School" height="80" width="80" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industrial Engineer<a href="https://www.javerianacali.edu.co" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_javeriana.png" alt="Universidad Javeriana" height="80" width="80" /></a></h4>
+<h4 align="center">Software Developer <a href="https://www.holbertonschool.com" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_holberton.png" alt="Holberton School" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industrial Engineer<a href="https://www.javerianacali.edu.co" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_javeriana.png" alt="Universidad Javeriana" height="50" width="50" /></a></h4>
 </p>
 <br>
 
@@ -36,7 +36,7 @@
 
 <!-- More information about Github -->
 <h3 align="center"> My Github stats </h3>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mfcrespo&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff&include_all_commits=2019" alt="My github stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfcrespo&layout=compact&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" alt="My github stats" /></a>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mfcrespo&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" height="151.47" width="444.6" alt="My github stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfcrespo&layout=compact&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" height="147.015" width="314.1" alt="My github stats" /></a>
 </p>
 <br>
 
