@@ -3,7 +3,7 @@
 <br>
 
 <!-- Presentación -->
-<h2> <em>Hello World</em>👋, I'm Maria Crespo, and here you find anything about me:</h2>
+<h2> <em>Hello World</em>👋, I'm Maria Crespo, and here you'll find something about me:</h2>
 <br>
 <p align="center"><img src="https://github.com/mfcrespo/Github_profile/blob/master/images/foto_perfil.png" width=250 height=250 /></p>
 
